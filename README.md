@@ -1,6 +1,7 @@
 # ML Model to predict user load on a Wi-Fi network
 
-#Goal: Using Logistic Regression model to predict the user load on the Wi-Fi network. 
+## Goal
+Using Logistic Regression model to predict the user load on the Wi-Fi network. 
 
 ## Data Source
 
