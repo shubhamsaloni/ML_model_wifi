@@ -20,4 +20,4 @@ if the same device is identified twice at 715am and 730am, it is counted as one 
 ## Outcomes from analysis by this ML model
 
   * Capacity Planning: Area with high user load can be deployed with more or high capacity Wi-Fi access points, and those with lower load with low capacity. We know which are what from shap analysis
-  * Maintainance Window: Looks like a sunday in Jan will be best to do maintainance . And if a mid-year maintainance is needed a sunday in Sep will be good.
+  * maintenance Window: Looks like a sunday in Jan will be best to do maintenance . And if mid-year maintenance is needed a sunday in Sep will be good.
